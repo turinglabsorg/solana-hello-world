@@ -1,0 +1,1 @@
+solana program deploy ./target/deploy/hello_world.so
